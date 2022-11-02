@@ -1,0 +1,61 @@
+body {
+    height: 100vh;
+    background:linear-gradient(transparent 60%, black );
+    
+    
+    
+}
+.contador{
+    font-size: 30px ;
+    margin:100px;
+}
+
+
+.naranja{
+    color: white;
+    display: block ;
+    font-size: 30px;
+    margin:120px;
+}
+
+.S_naranja{
+    color: orange;
+    display: block ;
+    font-size: 30px;
+    margin:100px;
+}
+.morado{
+    color: white;
+    display: block ;
+    font-size: 50px;
+    margin:120px;
+}
+.azul{
+    color: white;
+    display: block ;
+    font-size: 50px;
+    margin:120px ;
+    
+}
+
+.btn{
+    height: 35px;
+    width:120px;
+    
+  margin:160px;
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background: #efefef;
+  box-shadow: 2px 2px 4px #c8d0e7, -1px -1px 3px #fff;
+  color: #585858;
+}
